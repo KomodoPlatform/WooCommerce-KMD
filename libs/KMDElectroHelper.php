@@ -366,7 +366,7 @@ if (!class_exists('KMDElectroHelper')) {
             return self::hash_160_to_bc_address(self::hash_160(hex2bin($pubkey)));
         }
 
-        public static function hash_160_to_bc_address($h160, $addrtype = '1c')
+        public static function hash_160_to_bc_address($h160, $addrtype = '3c')
         {
             $vh160 = hex2bin($addrtype) . $h160;
             $h = self::hash_hash($vh160);
