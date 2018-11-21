@@ -2,7 +2,7 @@
 WooCommerce Plugin for KMD
     
 Contributors: Komodo    
-Donate link: https://komodoplatform.com   
+Website: https://komodoplatform.com   
 Tags: komodo, payments, kmd, cryptocurrency, payment, woocommerce, crypto    
 Requires at least: Wordpress 3.0.1    
 Tested up to: Wordpress 4.9.8    
